@@ -1,3 +1,4 @@
+/*contains styling for body and footer elements */
 body {
 	height: 100%
 	margin: 0;
@@ -34,7 +35,7 @@ a {
 	float: right;
 }
 
-.etc {
+.etc { /*div containing extra imagery and text*/
 	clear: both;
 	display: inline-block;
 }
@@ -75,7 +76,7 @@ a {
 	margin: 0 auto;
 }
 
-.below {
+.below { /*contact link*/
 	clear: both;
 	text-align: center;
 }
